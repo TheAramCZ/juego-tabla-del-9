@@ -1,0 +1,21 @@
+{
+  "name": "Desafío Tabla del 9",
+  "short_name": "Tabla del 9",
+  "description": "Un juego divertido para practicar la tabla de multiplicar del 9.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f0f9ff",
+  "theme_color": "#3b82f6",
+  "icons": [
+    {
+      "src": "https://placehold.co/192x192/3b82f6/ffffff?text=9x",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://placehold.co/512x512/3b82f6/ffffff?text=9x",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
